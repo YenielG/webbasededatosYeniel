@@ -1,3 +1,5 @@
+/Este codigo redirige  las llmadas a index.php
+
 RewriteEngine On
 RewriteBase /
 
