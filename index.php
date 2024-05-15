@@ -1,3 +1,5 @@
+// Este código en PHP define una clase llamada Database, que se utiliza para establecer una conexión a una base de datos MySQL 
+
 <?php
 
 require_once './app/config/Database.php';
