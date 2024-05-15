@@ -1,3 +1,5 @@
+// "HomeController"  maneja la y muestra la página de inicio
+
 <?php
 
 include_once 'UserController.php';
