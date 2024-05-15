@@ -1,4 +1,4 @@
-/Este codigo redirige  las llmadas a index.php
+#Este codigo redirige  las llmadas a index.php
 
 RewriteEngine On
 RewriteBase /
