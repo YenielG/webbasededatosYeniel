@@ -1,3 +1,5 @@
+// gestión de productos añadir borrar y actualizar
+
 <?php
 include_once 'app/models/ProductModel.php';
 include_once 'app/config/Database.php';
