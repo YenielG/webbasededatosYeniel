@@ -1,3 +1,5 @@
+// Guarda los modelos de productos nombres precio cantidad y suplidor 
+
 <?php
 class ProductModel {
     private $db;
