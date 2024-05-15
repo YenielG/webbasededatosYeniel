@@ -1,3 +1,5 @@
+// Este código es un ejemplo de una clase en PHP llamada "Database" que se utiliza para conectarse a una base de datos MySQL
+
 <?php
 
 class Database {
