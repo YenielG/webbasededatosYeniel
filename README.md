@@ -35,6 +35,10 @@ Eliminar un producto del inventario tambien puedes Visualizar la lista de produc
 
 Codigo brindado por el profesor J.Dastas
 
-**ASI SE VERIA EL ORDEN EN VSC**
+                                                 **ASI SE VERIA EL ORDEN EN VSC**
 ![image](https://github.com/YenielG/webbasededatosYeniel/assets/157734065/4e325c72-b218-4342-8f8b-7acda821e134)
+
+
+                                                      SQL                                                 
+![image](https://github.com/YenielG/webbasededatosYeniel/assets/157734065/ad374ab0-357b-4e6e-a47c-6482ad8ed8b7)
 
